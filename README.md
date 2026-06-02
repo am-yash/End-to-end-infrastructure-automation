@@ -11,7 +11,7 @@ Terraform provisions the infrastructure while Ansible configures and manages the
 ## Architecture Diagram
 
 <p align="center">
-  <img src="images/architecture.png" alt="Project Architecture" width="1000">
+  <img src="architecture.png" alt="Project Architecture" width="1000">
 </p>
 
 ---
